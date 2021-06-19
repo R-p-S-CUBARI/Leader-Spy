@@ -1,0 +1,57 @@
+{
+  "title": "A Story About A Part-Time Leader During The Day And Spy At Night, Suspected By A JK",
+  "description": "Well... Its a story about a part-time leader during the day and spy at night, suspected by a JK",
+  "artist": "Norishiro-chan",
+  "author": "Norishiro-chan",
+  "cover": "https://i.imgur.com/FjDsQY5.jpg",
+  "chapters": {
+    "01": {
+      "title": "The Hands Of God",
+      "volume": "",
+      "groups": {
+        "ROCK-paper-SCISSORS": "/proxy/api/imgur/chapter/j79CZVE/"
+      },
+      "last_updated": "1621860048"
+    },
+       "02": {
+      "title": "The Hopeless Thing You Are Doing Is",
+      "volume": "",
+      "groups": {
+        "ROCK-pape-SCISSORS": "/proxy/api/imgur/chapter/BE3Z70J/"
+      },
+      "last_updated": "1621867681"
+    },    
+   "03": {
+      "title": "You're Aiming For Me, Right?",
+      "volume": "",
+      "groups": {
+        "ROCK-paper-SCISSORS": "/proxy/api/imgur/chapter/OBwFUEJ/"
+      },
+      "last_updated": "1621868149"
+    },
+       "04": {
+      "title": "Is Your Heart Pounding?",
+      "volume": "",
+      "groups": {
+        "ROCK-paper-SCISSORS": "/proxy/api/imgur/chapter/U1OcrHq/"
+      },
+      "last_updated": "1621870059"
+    },
+     "05": {
+      "title": "I'm Not A Killer",
+      "volume": "",
+      "groups": {
+        "ROCK-paper-SCISSORS": "/proxy/api/imgur/chapter/VAoeFBl/"
+      },
+      "last_updated": "1623388147"
+    },
+     "06": {
+      "title": "Let's Go To Dinner Together",
+      "volume": "",
+      "groups": {
+        "ROCK-paper-SCISSORS": "/proxy/api/imgur/chapter/VE0XvuF/"
+      },
+      "last_updated": "1623388147"
+    }
+  }
+}
