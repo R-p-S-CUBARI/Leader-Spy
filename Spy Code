@@ -5,35 +5,35 @@
   "author": "Norishiro-chan",
   "cover": "https://i.imgur.com/FjDsQY5.jpg",
   "chapters": {
-    "01": {
+      "01": {
       "title": "The Hands Of God",
       "volume": "",
       "groups": {
-        "ROCK-paper-SCISSORS": "/proxy/api/imgur/chapter/j79CZVE/"
+        "ROCK-paper-SCISSORS": "/proxy/api/imgur/chapter/hTMPOAJ/"
       },
       "last_updated": "1621860048"
     },
-       "02": {
+      "02": {
       "title": "The Hopeless Thing You Are Doing Is",
       "volume": "",
       "groups": {
-        "ROCK-pape-SCISSORS": "/proxy/api/imgur/chapter/BE3Z70J/"
+        "ROCK-pape-SCISSORS": "/proxy/api/imgur/chapter/9Ys9k0W/"
       },
       "last_updated": "1621867681"
     },    
-   "03": {
+      "03": {
       "title": "You're Aiming For Me, Right?",
       "volume": "",
       "groups": {
-        "ROCK-paper-SCISSORS": "/proxy/api/imgur/chapter/OBwFUEJ/"
+        "ROCK-paper-SCISSORS": "/proxy/api/imgur/chapter/g6Oozwy/"
       },
       "last_updated": "1621868149"
     },
-       "04": {
+      "04": {
       "title": "Is Your Heart Pounding?",
       "volume": "",
       "groups": {
-        "ROCK-paper-SCISSORS": "/proxy/api/imgur/chapter/U1OcrHq/"
+        "ROCK-paper-SCISSORS": "/proxy/api/imgur/chapter/wvKYPha/"
       },
       "last_updated": "1621870059"
     },
@@ -41,7 +41,7 @@
       "title": "I'm Not A Killer",
       "volume": "",
       "groups": {
-        "ROCK-paper-SCISSORS": "/proxy/api/imgur/chapter/VAoeFBl/"
+        "ROCK-paper-SCISSORS": "/proxy/api/imgur/chapter/RW6AmGz/"
       },
       "last_updated": "1623388147"
     },
@@ -49,17 +49,33 @@
       "title": "Let's Go To Dinner Together",
       "volume": "",
       "groups": {
-        "ROCK-paper-SCISSORS": "/proxy/api/imgur/chapter/VE0XvuF/"
+        "ROCK-paper-SCISSORS": "/proxy/api/imgur/chapter/tHznJE1/"
       },
       "last_updated": "1623388147"
     },
-         "07": {
+      "07": {
       "title": "Declaration Of War?",
       "volume": "",
       "groups": {
-        "ROCK-paper-SCISSORS": "/proxy/api/imgur/chapter/Dd4Srnb/"
+        "ROCK-paper-SCISSORS": "/proxy/api/imgur/chapter/oynpEKF/"
       },
       "last_updated": "1628129335"
+    },
+    "08": {
+      "title": "What Your Type Of Woman?",
+      "volume": "",
+      "groups": {
+        "ROCK-paper-SCISSORS": "/proxy/api/imgur/chapter/cicH6kY/"
+      },
+      "last_updated": "1630650509"
+    },
+    "09": {
+      "title": "This Is My First Time, So...",
+      "volume": "",
+      "groups": {
+        "ROCK-paper-SCISSORS": "/proxy/api/imgur/chapter/Uck8nqH/"
+      },
+      "last_updated": "1630650509"
     }
   }
 }
