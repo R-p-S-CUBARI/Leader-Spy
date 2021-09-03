@@ -7,7 +7,7 @@
   "chapters": {
       "01": {
       "title": "The Hands Of God",
-      "volume": "",
+      "volume": "1",
       "groups": {
         "ROCK-paper-SCISSORS": "/proxy/api/imgur/chapter/hTMPOAJ/"
       },
@@ -15,7 +15,7 @@
     },
       "02": {
       "title": "The Hopeless Thing You Are Doing Is",
-      "volume": "",
+      "volume": "1",
       "groups": {
         "ROCK-pape-SCISSORS": "/proxy/api/imgur/chapter/9Ys9k0W/"
       },
@@ -23,7 +23,7 @@
     },    
       "03": {
       "title": "You're Aiming For Me, Right?",
-      "volume": "",
+      "volume": "1",
       "groups": {
         "ROCK-paper-SCISSORS": "/proxy/api/imgur/chapter/g6Oozwy/"
       },
@@ -31,7 +31,7 @@
     },
       "04": {
       "title": "Is Your Heart Pounding?",
-      "volume": "",
+      "volume": "1",
       "groups": {
         "ROCK-paper-SCISSORS": "/proxy/api/imgur/chapter/wvKYPha/"
       },
@@ -39,7 +39,7 @@
     },
      "05": {
       "title": "I'm Not A Killer",
-      "volume": "",
+      "volume": "1",
       "groups": {
         "ROCK-paper-SCISSORS": "/proxy/api/imgur/chapter/RW6AmGz/"
       },
@@ -47,7 +47,7 @@
     },
      "06": {
       "title": "Let's Go To Dinner Together",
-      "volume": "",
+      "volume": "1",
       "groups": {
         "ROCK-paper-SCISSORS": "/proxy/api/imgur/chapter/tHznJE1/"
       },
@@ -55,7 +55,7 @@
     },
       "07": {
       "title": "Declaration Of War?",
-      "volume": "",
+      "volume": "2",
       "groups": {
         "ROCK-paper-SCISSORS": "/proxy/api/imgur/chapter/oynpEKF/"
       },
@@ -63,7 +63,7 @@
     },
     "08": {
       "title": "What Your Type Of Woman?",
-      "volume": "",
+      "volume": "2",
       "groups": {
         "ROCK-paper-SCISSORS": "/proxy/api/imgur/chapter/cicH6kY/"
       },
@@ -71,7 +71,7 @@
     },
     "09": {
       "title": "This Is My First Time, So...",
-      "volume": "",
+      "volume": "2",
       "groups": {
         "ROCK-paper-SCISSORS": "/proxy/api/imgur/chapter/Uck8nqH/"
       },
